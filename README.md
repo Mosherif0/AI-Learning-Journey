@@ -7,7 +7,7 @@ This repo is dedicated to studying and practicing **Machine Learning** and **Dee
 
 ## 📂 Repository Structure
 - `Day-XX/` → Small, focused tasks with code and explanations.  
-- `projects/` → Larger projects that integrate multiple concepts.  
+- `project/` → Larger projects that integrate multiple concepts.  
 
 ---
 
